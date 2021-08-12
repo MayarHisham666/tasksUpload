@@ -1,0 +1,15 @@
+Adding Autocomplete Feature to Jupyter Notebook
+step 1: Open anaconda prompt and run the following commands
+ 1) pip install jupyter_contrib_nbextensions
+ 2) pip install jupyter_nbextensions_configurator
+ 3) jupyter contrib nbextension install --user 
+ 4) jupyter nbextensions_configurator enable --user
+
+step 2: Open jupyter notebook
+ - click on nbextensions tab
+ - unckeck disable configuration for nbextensions without explicit compatibility
+ - put a check on Hinterland
+step 3: Open new python file and check autocomplete feature
+
+https://www.youtube.com/watch?v=09NhhScYNoQ
+
