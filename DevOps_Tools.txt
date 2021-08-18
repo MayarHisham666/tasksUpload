@@ -1,0 +1,15 @@
+DevOps LIFE CYCLE:
+THE MOST POPULAR TOOLS OF EACH PHASE:
+ 
+1.Plan
+2.Code:source code tool-->(eclipse,JIRA,git,SVN, Mercurial, CVS)
+3.Build/Packageing code:-->(Ant,Maven,gradle)
+4.Test:automation testing tools-->(Selenium,TestNG,JUnit)
+5.Release:-->(Jenkins,Bamboo)
+6.Deploy:-->(Puppet,Chef,SaltStack,Ansible)
+7.Oprate
+8.Monitor:-->(Splunk,ELK Stack,Nagios,NewRelic,Sensu)
+
+
+Reference:
+https://www.edureka.co/blog/devops-lifecycle/
